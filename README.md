@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola 👋 Soy Enzo
 
-<!--
-**Enzoflx/Enzoflx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Desarrollo de Aplicaciones Multiplataforma y actualmente estoy aprendiendo y mejorando mis conocimientos en desarrollo web, bases de datos, programación y control de versiones.
 
-Here are some ideas to get you started:
+## Tecnologías que estoy aprendiendo
+- HTML  
+- CSS  
+- Java  
+- SQL  
+- Git / GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mi Portfolio
+Puedes visitar mi portfolio aquí:  
+https://tu-usuario.github.io/mi-portfolio/
