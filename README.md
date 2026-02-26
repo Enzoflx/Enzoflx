@@ -5,8 +5,7 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma**. Actualmente es
 ---
 
 ## 🛠 Tecnologías que estoy aprendiendo
-- **HTML5**  
-- **CSS3**  
+- **HTML5**   
 - **Java**  
 - **SQL**  
 - **Git / GitHub**  
